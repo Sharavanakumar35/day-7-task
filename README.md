@@ -14,5 +14,6 @@
 
 For question 1. d) I have used HTML `<table>` to print the name, capital and flag of all countries. I have used `.forEach()` function to populate the data.
 
-![Name_Capital_Flag_Table](nameCapitalFlag_table.png)
+![nameCapitalFlag_table](https://github.com/Sharavanakumar35/day-3-task/assets/136878187/ed81b029-d31f-4b99-a4ce-7150b074bf3d)
+
 
