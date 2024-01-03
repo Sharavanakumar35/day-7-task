@@ -12,7 +12,7 @@
 
 ## Note: 
 
-For question 1. d) I have used HTML `<table>` to print the name, capital and flag of all countries. I have used `.forEach()` function to populate the data.
+For question 1. c) I have used HTML `<table>` to print the name, capital and flag of all countries. I have used `.forEach()` function to populate the data.
 
 ![nameCapitalFlag_table](https://github.com/Sharavanakumar35/day-3-task/assets/136878187/ed81b029-d31f-4b99-a4ce-7150b074bf3d)
 
